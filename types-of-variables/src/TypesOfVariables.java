@@ -1,3 +1,5 @@
+import java.util.Date;
+
 public class TypesOfVariables {
     public static void main(String[] args) throws Exception {
         //primitive types
@@ -11,6 +13,20 @@ public class TypesOfVariables {
 
         final double PI_VALUE = 3.14; //final in the beginning of the class indicates that class is immutable and the name in caps lock is a convention
 
-        System.out.println(PI_VALUE);
+        System.out.println("Pi value: " + PI_VALUE);
+        
+        String name = "Yuri";
+        int age = 16;
+        double weight = 68.5;
+        char sex = 'M';
+        boolean organDonor = false;
+        Date actualDate = new Date();
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Weight: " + weight);
+        System.out.println("Sex: " + sex);
+        System.out.println("Organ donor? " + organDonor);
+        System.out.println("Actual date: " + actualDate);
     }
 }
