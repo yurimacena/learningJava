@@ -1,4 +1,4 @@
-public class Comentaries {
+public class Comments {
     public static void main(String[] args) {
         // Hello, I am a comment in one unique line.
 
