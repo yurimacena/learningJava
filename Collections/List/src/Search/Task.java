@@ -1,4 +1,4 @@
-package List.src;
+package List.src.Search;
 
 public class Task {
     //atribute
