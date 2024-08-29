@@ -1,7 +1,7 @@
 package List.src.Search;
 
 public class Contact {
-    private String name;
+    private final String name;
 
     private int number;
 
