@@ -1,4 +1,4 @@
-package List.src.Set;
+package Set;
 
 public class Guest {
     private final String name;

@@ -1,4 +1,4 @@
-package List.src.Search;
+package Search;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package List.src.Search;
+package Search;
 
 public class Contact {
     private final String name;
